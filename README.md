@@ -40,6 +40,8 @@ plt.show()
 OUTPUT:
 
 
+<img width="888" height="646" alt="Screenshot 2025-12-27 085752" src="https://github.com/user-attachments/assets/a07bfb8d-b367-4902-8ea6-470e67aa6b46" />
+
 
 
 ```
@@ -60,6 +62,8 @@ plt.legend()
 plt.show()
 ```
 OUTPUT:
+
+<img width="836" height="451" alt="Screenshot 2025-12-27 085805" src="https://github.com/user-attachments/assets/770a3111-ba7e-4b8b-833f-979a1230beb7" />
 
 
 
